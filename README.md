@@ -1,6 +1,6 @@
 ## Introduction
 
-This guide describes an Evaluation Methodology (EM) for design, optimization and uncertainty quantification of fin-tube heat exchanger thermal and hydraulic performance. The elements of the Evaluation Methodology are:
+This guide describes an Evaluation Methodology for design, optimization and uncertainty quantification of fin-tube heat exchanger thermal and hydraulic performance. The elements of the Evaluation Methodology are:
 1. Model Development
 2. Optimization Study
 3. Uncertainty Quantification Study
